@@ -1,6 +1,6 @@
 [package]
+authors = [""]
 name = "first_circut"
 type = "bin"
-authors = [""]
 
 [dependencies]
